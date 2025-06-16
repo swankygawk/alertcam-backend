@@ -24,7 +24,7 @@ AlertCam is a system for real-time vehicle detection, alarm management, and noti
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/swankygawk/alertcam-backend.git
    cd alertcam-backend
    ```
 
