@@ -2,7 +2,6 @@ import time
 import queue
 import json
 from datetime import datetime, timezone
-from telegram import InlineKeyboardButton
 from . import db
 from .models import Alarm, AlarmEvent, User
 from .notifications import send_telegram_message
